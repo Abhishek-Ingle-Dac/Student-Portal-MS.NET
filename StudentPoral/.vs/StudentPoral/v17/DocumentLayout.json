@@ -1,0 +1,298 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\views\\students\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\views\\students\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\views\\students\\add.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\models\\entities\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\models\\addstudentviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\data\\dbcontextfactory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\studentporal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\studentporal.web.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|c:\\users\\ashish ingle\\downloads\\.net\\studentporal\\studentporal.web\\migrations\\20250528120921_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D4F3FDB7-F398-4785-BA0E-6E3FD4D443FD}|StudentPoral.Web\\StudentPoral.Web.csproj|solutionrelative:studentporal.web\\migrations\\20250528120921_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Views\\Students\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Students\\Edit.cshtml",
+              "RelativeToolTip": "StudentPoral.Web\\Views\\Students\\Edit.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAACYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T19:06:10.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Controllers\\StudentsController.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Controllers\\StudentsController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAuwEUAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:14:21.229Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Students\\List.cshtml",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Views\\Students\\List.cshtml",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Students\\List.cshtml",
+              "RelativeToolTip": "StudentPoral.Web\\Views\\Students\\List.cshtml",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAowBgAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T18:49:35.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Add.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Students\\Add.cshtml",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Views\\Students\\Add.cshtml",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Students\\Add.cshtml",
+              "RelativeToolTip": "StudentPoral.Web\\Views\\Students\\Add.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAowBcAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T12:15:42.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "StudentPoral.Web\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAABAAAAAAAAAAAAAqwB0AAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T18:59:24.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Models\\Entities\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Models\\Entities\\Student.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Models\\Entities\\Student.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Models\\Entities\\Student.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAA8wAkAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:05:18.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AddStudentViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Models\\AddStudentViewModel.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Models\\AddStudentViewModel.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Models\\AddStudentViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:43:02.065Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250528120921_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Migrations\\20250528120921_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Migrations\\20250528120921_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Migrations\\20250528120921_InitialCreate.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Migrations\\20250528120921_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T12:09:21.952Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Program.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Program.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:41:52.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "StudentPoral.Web\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:42:55.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DbContextFactory.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Data\\DbContextFactory.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Data\\DbContextFactory.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Data\\DbContextFactory.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Data\\DbContextFactory.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA+wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:44:10.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\appsettings.json",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\appsettings.json",
+              "RelativeToolTip": "StudentPoral.Web\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAgwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T11:14:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAUwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T11:01:24.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentPoral.Web.csproj",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\StudentPoral.Web.csproj",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\StudentPoral.Web.csproj",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\StudentPoral.Web.csproj",
+              "RelativeToolTip": "StudentPoral.Web\\StudentPoral.Web.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-28T11:01:28.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Properties\\launchSettings.json",
+              "RelativeToolTip": "StudentPoral.Web\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-28T10:43:06.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "StudentPoral.Web\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-28T10:42:46.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "StudentPoral.Web\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASHISH INGLE\\Downloads\\.NET\\StudentPoral\\StudentPoral.Web\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "StudentPoral.Web\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-28T10:42:12.618Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
